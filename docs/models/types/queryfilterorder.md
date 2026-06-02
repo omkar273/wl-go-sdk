@@ -1,0 +1,19 @@
+# QueryFilterOrder
+
+## Example Usage
+
+```go
+import (
+	"github.com/omkar273/wl-go-sdk/v2/models/types"
+)
+
+value := types.QueryFilterOrderAsc
+```
+
+
+## Values
+
+| Name                   | Value                  |
+| ---------------------- | ---------------------- |
+| `QueryFilterOrderAsc`  | asc                    |
+| `QueryFilterOrderDesc` | desc                   |
